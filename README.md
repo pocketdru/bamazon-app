@@ -13,6 +13,7 @@ bamazonCustomer.js is a program which helps a user (customer) buy goods.
 4. In the end, the app shows user's order.
 
 ###Example
+
 ![bamazonCustomer.js](gifs/1.gif)
 
 ## bamazonMeneger.js
