@@ -1,18 +1,19 @@
 # bamazon-app
 
-The app is consist of two programs: 
+The app consist of two programs: 
 * bamazonCustomer.js 
 * bamazonMeneger.js.
 
 ## bamazonCustomer.js
-bamazonCustomer.js is a program which helps a user (customer) buy goods. 
+bamazonCustomer.js is a program which helps a user (customer) buy goods.
+
 ### How it works
 1. The app shows a list of the available products.
 2. And offer customer buy listed goods.
 3. User can pick up the product by ID. And then they may choose how many units they want to buy.
 4. In the end, the app shows user's order.
 
-###Example
+### Example
 
 ![bamazonCustomer.js](gifs/1.gif)
 
