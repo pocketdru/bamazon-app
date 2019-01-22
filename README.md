@@ -9,7 +9,7 @@ bamazonCustomer.js is a program which helps a user (customer) buy goods.
 
 ### How it works
 1. The app shows a list of the available products.
-2. And offer customer buy listed goods.
+2. And offers the customer to buy listed goods.
 3. User can pick up the product by ID. And then they may choose how many units they want to buy.
 4. In the end, the app shows user's order.
 
