@@ -1,5 +1,10 @@
 # bamazon-app
 
+## Built with
+1. ES6.
+2. MySQL.
+3. Inquirer.
+
 The app consist of two programs: 
 * bamazonCustomer.js 
 * bamazonMeneger.js.
